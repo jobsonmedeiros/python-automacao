@@ -8,7 +8,7 @@ import pandas as pd
 pyautogui.PAUSE = 1
 
 ## mostra mensagem em prompt ao usuário
-pyautogui.alert("Iniciando script, aperte OK e não bula em nadica de nada!")
+pyautogui.alert("ATENÇÃO: Iniciando script, este processo automatizado usará seu mouse e teclado. Deixe-os livres. Clique em OK para continuar!")
 
 #  abrindo o navegador edge
 
@@ -115,5 +115,7 @@ pyautogui.hotkey('ctrl', 'v')
 ## atalho para enviar o email
 pyautogui.hotkey('ctrl', 'enter')
 
+## alerta ao usuário de trabalho finalizado
+pyautogui.alert("AVISO: Processo concluído. Mouse e teclado liberados!")
 
 ~~~
