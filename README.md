@@ -28,7 +28,21 @@ construída sobre a linguagem de programação Python
 [Código-fonte do projeto](https://github.com/jobsonmedeiros/python-automacao/blob/main/Rotina-Relatorio-Diario.ipynb) comentado.
 
 > Vale ressaltar que mesmo que seguido à risca, o projeto pode não funcionar em outro computador, pois os cliques foram calibrados para os pixels da minha tela:
-- A diagonal é de: 16.3" (41.4 cm)
+- A diagonal é de 16.3" (41.4 cm)
 - Dimensões do display, largura x altura: 14.2" x 8" (36.1 cm x 20.3 cm)
 
 É possível "calibrar" usando o programa [ColoPix](https://colorpix.softonic.com.br/).
+
+## Descrição do trabalho realizado pelo script
+
+- Emite mensagem de alerta ao usuário informando que iniciará a execução de um procedimento automatizado e que, portanto, o mouse e o teclado não devem ser utilizados até o fim de sua execução;
+- Abre o menu iniciar e aciona o navegador Edge (Antigo Explorer);
+- Abre uma nova aba e insere o link para acessar a planilha de dados;
+- Faz download da planilha;
+- Acessa o gmail e cria um novo email;
+- Preenche campos: 'Destinatários' e 'Assunto';
+- Preenche com uma mensagem automática o corpo do e-mail, onde constam duas variáveis: {faturamento:,.2f} e {unidades:,}, que terão valores dinâmicos a cada dia;
+- Envia envia o e-mail.
+- Emite alerta ao usuário informando que o trabalho foi concluído e que teclado e mouse já estão liberados.
+
+
