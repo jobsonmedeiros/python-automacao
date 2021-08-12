@@ -37,12 +37,15 @@ construída sobre a linguagem de programação Python
 
 - Emite mensagem de alerta ao usuário informando que iniciará a execução de um procedimento automatizado e que, portanto, o mouse e o teclado não devem ser utilizados até o fim de sua execução;
 - Abre o menu iniciar e aciona o navegador Edge (Antigo Explorer);
-- Abre uma nova aba e insere o link para acessar a planilha de dados;
+- Abre uma nova aba e insere o link para acessar a planilha de dados das vendas;
 - Faz download da planilha;
+- Acessa a planilha;
+- Faz a soma do total (em R$) das vendas no período;
+- Faz a soma da quantidade de produtos vendidos no período;
 - Acessa o gmail e cria um novo email;
 - Preenche campos: 'Destinatários' e 'Assunto';
 - Preenche com uma mensagem automática o corpo do e-mail, onde constam duas variáveis: {faturamento:,.2f} e {unidades:,}, que terão valores dinâmicos a cada dia;
-- Envia envia o e-mail.
+- Envia o e-mail aos destinatários;
 - Emite alerta ao usuário informando que o trabalho foi concluído e que teclado e mouse já estão liberados.
 
 
