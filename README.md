@@ -13,9 +13,9 @@ Criar uma rotina de automação em Python para facilitar o seguinte cenário:
 3 - O relatório de venda fica em uma planilha, no formato .xlsx, na web.
 
 ### Tecnologias utilizadas
-- [Python](https://www.python.org/) - é uma linguagem de programação que permite trabalhar rapidamente e integrar sistemas de forma mais eficaz.
-- [Anaconda](https://www.anaconda.com/), uma plataforma de ciência de dados para Python
-- [Jupyter Notebook](https://jupyter.org/) - um aplicativo da web de código aberto que permite criar e compartilhar documentos que contêm código ao vivo, equações, visualizações e texto narrativo. Os usos incluem: limpeza e transformação de dados, simulação numérica, modelagem estatística, visualização de dados, aprendizado de máquina etc.
+- ![](https://github.com/jobsonmedeiros/python-automacao/blob/main/python.ico) [Python](https://www.python.org/=16x16) - é uma linguagem de programação que permite trabalhar rapidamente e integrar sistemas de forma mais eficaz.
+- ![](https://github.com/jobsonmedeiros/python-automacao/blob/main/anaconda3.ico) [Anaconda](https://www.anaconda.com/), uma plataforma de ciência de dados para Python
+- ![](https://github.com/jobsonmedeiros/python-automacao/blob/main/jupyternotebook.ico) [Jupyter Notebook](https://jupyter.org/) - um aplicativo da web de código aberto que permite criar e compartilhar documentos que contêm código ao vivo, equações, visualizações e texto narrativo. Os usos incluem: limpeza e transformação de dados, simulação numérica, modelagem estatística, visualização de dados, aprendizado de máquina etc.
 
 #### Bibliotecas:
 -  [Pandas](https://pandas.pydata.org/) - uma ferramenta de análise e manipulação de dados de código aberto rápida, poderosa, flexível e fácil de usar,
