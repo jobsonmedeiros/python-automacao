@@ -8,9 +8,9 @@ DESAFIO por HashtagTreinamentos
 
 Criar uma rotina de automação em Python para facilitar o seguinte cenário:
 
-1 - Você ao chegar no trabalho todos os dias, como primeira atividade, deve criar e enviar o relatório de vendas do dia anterior para a administração via e-mail.
-2 - Esse relatório textual contém duas informações importantes no corpo do e-mail: Total faturado e total de unidades vendidas.
-3 - O relatório de venda fica em uma planilha, no formato .xlsx, na web.
+1. Você ao chegar no trabalho todos os dias, como primeira atividade, deve criar e enviar o relatório de vendas do dia anterior para a administração via e-mail;
+2. Esse relatório textual contém duas informações importantes no corpo do e-mail: Total faturado e total de unidades vendidas;
+3. O relatório de vendas fica em uma planilha, no formato .xlsx, na web.
 
 ### Tecnologias utilizadas
 - ![](https://github.com/jobsonmedeiros/python-automacao/blob/main/python.ico) [Python](https://www.python.org/=16x16) - é uma linguagem de programação que permite trabalhar rapidamente e integrar sistemas de forma mais eficaz.
@@ -48,4 +48,15 @@ construída sobre a linguagem de programação Python
 - Envia o e-mail aos destinatários;
 - Emite alerta ao usuário informando que o trabalho foi concluído e que teclado e mouse já estão liberados.
 
+## ScreenShots
+- Tela do Jupyter Notebook em localhost (Anaconda 3)
 
+![](https://github.com/jobsonmedeiros/python-automacao/blob/main/1-ambientejupyter.PNG)
+
+- Tela acesso aos dados
+
+![](https://github.com/jobsonmedeiros/python-automacao/blob/main/2-leitura-dados-planilha.PNG)
+
+- Tela envio do e-mail
+
+![](https://github.com/jobsonmedeiros/python-automacao/blob/main/3-envioemail.PNG)
